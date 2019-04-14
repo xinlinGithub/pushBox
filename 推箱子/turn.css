@@ -1,0 +1,25 @@
+ body,
+canvas{
+    margin: 0;
+    padding: 0;
+}
+html{
+    height: 100%;
+}
+body{
+    background-image: url("./images/back.jpg");
+}
+.pushBox{
+    height: 100%;
+    margin: 10px auto;
+    text-align: center;
+}
+.pushBox .levels{
+    margin-bottom: 10px;
+}
+.step, .level{
+    background-color: #ccc;
+}
+.say{
+    color:#fff;
+}
